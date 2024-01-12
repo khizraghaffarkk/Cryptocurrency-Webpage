@@ -2,5 +2,5 @@ I have developed a small project using coingecko API with HTML, CSS, and JavaScr
 
 --------------------------------
 Live Link:
-cryptocurrency_webpage.surge.sh
+https://cryptocurrency_webpage.surge.sh/
 --------------------------------
