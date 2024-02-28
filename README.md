@@ -20,7 +20,7 @@ Welcome to Cryptocurrency-Webpage! This project leverages the **`Coingecko API`*
 
 1. **Clone the project repository**:
    ```bash
-   git clone https://github.com/khizraghaffarkk/Expense-Tracker-App.git
+   git clone https://github.com/khizraghaffarkk/Cryptocurrency-Webpage.git
 2. **Navigate to the project directory**:
    ```bash
    cd path/to/your/directory
